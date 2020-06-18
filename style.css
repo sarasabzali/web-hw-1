@@ -1,0 +1,51 @@
+body{
+     background-image: url(https://lh3.googleusercontent.com/zVAy-l5ZsKbd2xUlwGhzS-z4PzqJhkzJSJHN0DJyTcBWjBtj4aMsr_59R-x-lhecLg);
+     /* background: rgb(8, 5, 68);
+     background: linear-gradient(90deg, rgb(22, 15, 153) 0%, rgb(64, 64, 173) 35%, rgba(0, */
+}
+
+#title{
+   color: aliceblue;
+   font-family: 'Changa', sans-serif;
+    text-align:center;
+    
+}
+
+
+body
+#para{
+   color: plum;
+   font-family: 'Reem Kufi', sans-serif;
+}
+body
+#mara{
+color: violet;
+font-family: 'Reem Kufi', sans-serif;
+
+}
+h3{
+   width: 50%;
+   text-align: justify; /* For Edge */
+   text-align-last: justify;
+}
+img{
+   border: 5px solid rgb(248, 253, 253);
+   
+}
+#hi1{
+ opacity: 0.2;
+ 
+
+}
+#hi1:hover{
+   opacity: 1;
+  /* width: 40%; */
+  
+}
+article{
+background-color: rgb(116, 29, 173);
+width: 25%;
+}
+#pic{
+   visibility: hidden;
+}
